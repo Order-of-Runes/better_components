@@ -1,6 +1,6 @@
 name: better_components
 description: "A collection of better components"
-version: 0.0.3
+version: 0.0.4
 publish_to: none
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
   utils:
     git:
       url: https://github.com/Order-of-Runes/utils.git
-      ref: 0.0.5
+      ref: 0.0.6
 
 dev_dependencies:
   very_good_analysis: ^7.0.0
